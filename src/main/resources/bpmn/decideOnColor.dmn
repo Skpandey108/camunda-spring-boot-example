@@ -59,6 +59,20 @@
           <text></text>
         </outputEntry>
       </rule>
+       <rule id="row-564712579-5">
+        <inputEntry id="UnaryTests_1vuzo1e_white">
+          <text>"white"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1lst85f_white">
+          <text>"vanila"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1qemt9p_white">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_037okr8_white">
+          <text></text>
+        </outputEntry>
+      </rule>
       <rule id="row-564712579-4">
         <inputEntry id="UnaryTests_11wqyiv">
           <text></text>
